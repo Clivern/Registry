@@ -18,7 +18,7 @@
 
 For transparency into our release cycle and in striving to maintain backward compatibility, Rabbit is maintained under the [Semantic Versioning guidelines](https://semver.org/) and release process is predictable and business-friendly.
 
-See the [Releases section of our GitHub project](https://github.com/clivern/registry/releases) for changelogs for each release version of Rabbit. It contains summaries of the most noteworthy changes made in each release.
+See the [Releases section of our GitHub project](https://github.com/clivern/registry/releases) for changelogs for each release. It contains summaries of the most noteworthy changes made in each release.
 
 
 ## Bug tracker
