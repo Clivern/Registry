@@ -2,7 +2,7 @@ repo_name: Clivern/Registry
 report_id: 2da1929feff2c18329721c93fa07de06
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:24:23+00:00'
+timestamp: '2024-01-05T08:18:33+00:00'
 requested_by: Clivern
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/Registry
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Clivern/Registry/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: A. F
   last_updated_on: 2019-06-18 19:03:08.000000000 Z
